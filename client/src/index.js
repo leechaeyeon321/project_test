@@ -19,8 +19,6 @@ root.render(
     composeWithDevTools(
 
     )
-  // window.__REDUX_DEVTOOLS_EXTENTION__&&
-  // window.__REDUX_DEVTOOLS_EXTENTION__()
   )}>
     <App />
   </Provider>
